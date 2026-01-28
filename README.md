@@ -94,7 +94,9 @@ Certain genres and countries contribute heavily to the content library
 Content duration and release trends vary across categories
 
 
+
 📎 Project Structure
+
 ├── data/
 │   └── netflix_titles.csv
 ├── notebooks/
@@ -102,6 +104,7 @@ Content duration and release trends vary across categories
 ├── presentation/
 │   └── Netflix_Project_Presentation.pptm
 ├── README.md
+
 
 
 🚀 Future Enhancements
