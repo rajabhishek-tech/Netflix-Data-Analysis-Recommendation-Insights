@@ -97,13 +97,13 @@ Content duration and release trends vary across categories
 
 📎 Project Structure
 
-├── data/
-│   └── netflix_titles.csv
-├── notebooks/
-│   └── Netflix_Final_Submission.ipynb
-├── presentation/
-│   └── Netflix_Project_Presentation.pptm
-├── README.md
+├── data/                         
+│   └── netflix_titles.csv                     
+├── notebooks/                  
+│   └── Netflix_Final_Submission.ipynb             
+├── presentation/                  
+│   └── Netflix_Project_Presentation.pptm                
+├── README.md             
 
 
 
